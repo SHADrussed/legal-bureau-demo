@@ -1,0 +1,11 @@
+{
+  "site_id": "5c787fce-6a60-48b4-bda7-0646ca286792",
+  "url": "https://shadrussed-legal-bureau-demo.netlify.app",
+  "sso_login": false,
+  "sso_login_context": "all",
+  "account_sso_login": false,
+  "built_with_badge_enabled": false,
+  "state": "current",
+  "published_deploy_id": "6ad37a9f10bdd6cfb40cd8b9",
+  "published_deploy_state": "ready"
+}

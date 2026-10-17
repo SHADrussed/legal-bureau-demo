@@ -1,0 +1,10 @@
+{
+  "site_id": "5c787fce-6a60-48b4-bda7-0646ca286792",
+  "site_name": "shadrussed-legal-bureau-demo",
+  "deploy_id": "6ad37a9f10bdd6cfb40cd8b9",
+  "deploy_url": "https://6ad37a9f10bdd6cfb40cd8b9--shadrussed-legal-bureau-demo.netlify.app",
+  "logs": "https://app.netlify.com/projects/shadrussed-legal-bureau-demo/deploys/6ad37a9f10bdd6cfb40cd8b9",
+  "function_logs": "https://app.netlify.com/projects/shadrussed-legal-bureau-demo/logs/functions",
+  "edge_function_logs": "https://app.netlify.com/projects/shadrussed-legal-bureau-demo/logs/edge-functions",
+  "url": "https://shadrussed-legal-bureau-demo.netlify.app"
+}
